@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dangrossman/bootstrap-daterangepicker.git"
+    "url": "https://github.com/baysao/bootstrap-daterangepicker.git"
   },
   "author": {
-    "name": "Dan Grossman",
-    "email": "dan@dangrossman.info",
-    "url": "http://www.dangrossman.info"
+    "name": "Vu Tran",
+    "email": "baysao@gmail.com",
+    "url": "http://vutran.info"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dangrossman/bootstrap-daterangepicker/issues"
+    "url": "https://github.com/baysao/bootstrap-daterangepicker/issues"
   },
-  "homepage": "https://github.com/dangrossman/bootstrap-daterangepicker",
+  "homepage": "https://github.com/baysao/bootstrap-daterangepicker",
   "dependencies": {
     "jquery": "^1.10",
     "moment": "^2.9.0"
