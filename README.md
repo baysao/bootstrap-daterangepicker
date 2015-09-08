@@ -1,4 +1,5 @@
 # Date Range Picker for Bootstrap
+Please see original [here](https://github.com/dangrossman/bootstrap-daterangepicker)
 
 ![Improvely.com](http://i.imgur.com/LbAMf3D.png)
 
